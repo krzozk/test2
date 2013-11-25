@@ -1,0 +1,3 @@
+[submodule "lib/Purchase"]
+	path = lib/Purchase
+	url = http://www.github.com/GlobalLynx/modPurchase.git
